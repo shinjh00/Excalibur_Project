@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b091c4931c1e8fa40b9e4e0f13219ddd, type: 3}
+  m_Name: Wizard
+  m_EditorClassIdentifier: 
+  classType: 2
+  description: "\uB9C8\uBC95\uC0AC lv1"
+  moveSpeed: 4.9
+  atkDamage: 40
+  atkSpeed: 1
+  atkRange: 2
+  atkAngle: 70
+  knockBackDistance: 2
+  knockBackSpeed: 5
+  maxHp: 720
+  hp: 720
+  defense: 60
+  dex: 0
+  attackType: 5
+  level: 0
+  exp: 0
+  coin: 0
+  team: 0
+  ClassLvData:
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: 5761c6772515cae44bd7e0125800cdd9, type: 2}
+  playerColRadius: 0.6

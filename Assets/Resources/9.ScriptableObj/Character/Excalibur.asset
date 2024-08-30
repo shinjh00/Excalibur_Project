@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b091c4931c1e8fa40b9e4e0f13219ddd, type: 3}
+  m_Name: Excalibur
+  m_EditorClassIdentifier: 
+  classType: 4
+  description: 
+  moveSpeed: 3
+  atkDamage: 210
+  atkSpeed: 1
+  atkRange: 4
+  atkAngle: 90
+  knockBackDistance: 0.5
+  knockBackSpeed: 2
+  maxHp: 1700
+  hp: 1700
+  defense: 88
+  dex: 3
+  attackType: 0
+  level: 0
+  exp: 0
+  coin: 0
+  team: 0
+  ClassLvData: []
+  playerColRadius: 0.6

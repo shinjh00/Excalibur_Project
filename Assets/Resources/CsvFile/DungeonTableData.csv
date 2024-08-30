@@ -1,0 +1,4 @@
+ID,팀전 여부,팀 개수,엑스칼리버 종류,벽 리소스,공허 리소스,몬스터 공격력 강화 비율,몬스터 방어력 증가 비율,몬스터 HP 증가 비율,BGM,몬스터 스폰 번들,상자 스폰 번들,함정 스폰 번들,엄폐물 스폰 수,총 방 개수 최소,총 방 개수 최대,후반 방 세대,중반 방 세대,초반 방 세대,퍼즐 방 개수
+ID,IsTeamFight,TeamEA,ExclbType,WallResource,VoidResource,MonAttReinforceRate,MonDefReinforceRate,MonHPReinforceRate,BGM,MonsterSpawnBundle,ChestSpawnBundle,TrapSpawnBundle,InnerWallSpawnCount,RoomCountMin,RoomCountMax,EndRoomRange,LateRoomRange,BeginRoomRange,PuzzleRoomCount
+1400000,FALSE,-9999,1103000,-9999,-9999,1,1,1,-9999,1305000,1306000,1307000,-9999,100,150,2,5,8,2
+1400001,TRUE,2,1103001,-9999,-9999,1,1,1.5,-9999,1305000,1306000,1307000,-9999,100,150,2,5,8,2

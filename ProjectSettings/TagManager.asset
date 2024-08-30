@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Monster
+  - Floor
+  - Interact
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Room
+  - Icon
+  - EnemyIcon
+  - Wall
+  - GlobalLight
+  - MinimapLight
+  - FOW
+  - Trap
+  - PuzzleTile
+  - HallWay
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wall
+    uniqueID: 60457391
+    locked: 0
+  - name: Player
+    uniqueID: 2823677017
+    locked: 0
+  - name: Sec
+    uniqueID: 512075039
+    locked: 0

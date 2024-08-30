@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "611089119927",
+    "firebase_url": "https://excalibur-project-a82f1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "excalibur-project-a82f1",
+    "storage_bucket": "excalibur-project-a82f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611089119927:android:e8f3ea080841b409b42b32",
+        "android_client_info": {
+          "package_name": "Yujams.Excalibur_Project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxtX6dCz8qK_LIC-axJXXcqcGBGIM5vQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

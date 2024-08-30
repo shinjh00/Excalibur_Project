@@ -1,0 +1,11 @@
+﻿ID,퍼즐 종류,프리팹
+ID,PuzzleType,Prefab
+1303000,1,6.Prefab/Puzzle/Puzzle_1_1
+1303001,1,6.Prefab/Puzzle/Puzzle_1_2
+1303002,1,6.Prefab/Puzzle/Puzzle_1_3
+1303003,1,6.Prefab/Puzzle/Puzzle_1_4
+1303004,1,6.Prefab/Puzzle/Puzzle_1_5
+1303005,2,6.Prefab/Puzzle/Puzzle_2
+1303006,3,6.Prefab/Puzzle/Puzzle_3
+1303007,4,6.Prefab/Puzzle/Puzzle_4
+1303008,5,6.Prefab/Puzzle/Puzzle_5

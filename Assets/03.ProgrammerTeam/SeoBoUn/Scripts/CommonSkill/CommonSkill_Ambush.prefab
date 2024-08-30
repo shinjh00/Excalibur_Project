@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6037825005160030669
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1285874348850958512}
+  - component: {fileID: 5444470084828897927}
+  m_Layer: 0
+  m_Name: CommonSkill_Ambush
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1285874348850958512
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6037825005160030669}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5444470084828897927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6037825005160030669}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 127623cc92eae0e4b91200e410a07bda, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coolTime: 3
+  skillType: 0
+  skillInfo:
+    id: 0
+    name: 
+    skUser: 0
+    buyPrice: 0
+    skEffect1: 0
+    skEffect1_Data:
+      id: 0
+      name: 
+      target: 0
+      type: 0
+      dmgFactor: 0
+      defFactor: 0
+      hpFactor: 0
+      defuff: 0
+      minForeDelay: 0
+      maxForeDelay: 0
+      minAftDelay: 0
+      maxAftDelay: 0
+      reuseTime: 0
+      skillRange: 0
+      skillSpd: 0
+      susTime: 0
+      knockbackDis: 0
+      knockbackTime: 0
+      unbeatableTime: 0
+      effect: 0
+      beforeSound: 0
+      mainSound: 0
+      afterSound: 0
+      animation1: 0
+      animation2: 0
+      animation3: 0
+    skEffect2: 0
+    skEffect2_Data:
+      id: 0
+      name: 
+      target: 0
+      type: 0
+      dmgFactor: 0
+      defFactor: 0
+      hpFactor: 0
+      defuff: 0
+      minForeDelay: 0
+      maxForeDelay: 0
+      minAftDelay: 0
+      maxAftDelay: 0
+      reuseTime: 0
+      skillRange: 0
+      skillSpd: 0
+      susTime: 0
+      knockbackDis: 0
+      knockbackTime: 0
+      unbeatableTime: 0
+      effect: 0
+      beforeSound: 0
+      mainSound: 0
+      afterSound: 0
+      animation1: 0
+      animation2: 0
+      animation3: 0
+    skEffect3: 0
+    skEffect3_Data:
+      id: 0
+      name: 
+      target: 0
+      type: 0
+      dmgFactor: 0
+      defFactor: 0
+      hpFactor: 0
+      defuff: 0
+      minForeDelay: 0
+      maxForeDelay: 0
+      minAftDelay: 0
+      maxAftDelay: 0
+      reuseTime: 0
+      skillRange: 0
+      skillSpd: 0
+      susTime: 0
+      knockbackDis: 0
+      knockbackTime: 0
+      unbeatableTime: 0
+      effect: 0
+      beforeSound: 0
+      mainSound: 0
+      afterSound: 0
+      animation1: 0
+      animation2: 0
+      animation3: 0
+    coolTime: 0
+    icon: 0
+    description: 0
+    flavorText: 0
+  id: 1002020
+  healAmount: 0
+  ambushBoxPrefab: {fileID: 4512657220277435008, guid: 49985297e1f478a43b9ddeecf7ec19fa, type: 3}

@@ -1,0 +1,3 @@
+ID,설명,몬스터 번들 종류,몬스터 스폰 번들1,몬스터 스폰 번들2,몬스터 스폰 번들3,몬스터 스폰 번들4,몬스터 스폰 번들5,몬스터 스폰 번들6,몬스터 스폰 번들7,몬스터 스폰 번들8,몬스터 스폰 번들9,몬스터 스폰 번들10
+ID,Explanation,MobSpawnerCount,MobSpawnID1,MobSpawnID2,MobSpawnID3,MobSpawnID4,MobSpawnID5,MobSpawnID6,MobSpawnID7,MobSpawnID8,MobSpawnID9,MobSpawnID10
+1305000,임시 몬스터 스폰 테이블,6,1300000,1300001,1300002,1300003,1300004,1300005,-9999,-9999,-9999,-9999

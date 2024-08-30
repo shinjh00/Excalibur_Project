@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5463164281815967587
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6510651785774494718}
+  - component: {fileID: 2358909440299084264}
+  m_Layer: 0
+  m_Name: WizardSkill
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6510651785774494718
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5463164281815967587}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2358909440299084264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5463164281815967587}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 815b4a4abf6d66b488194c0a439b7af1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  owner: {fileID: 0}
+  s1FirstDelayMin: 0
+  s1FirstDelayMax: 0
+  s1AfterDelayMin: 0
+  s1AfterDelayMax: 0
+  s2FirstDelayMin: 0
+  s2FirstDelayMax: 0
+  s2AfterDelayMin: 0
+  s2AfterDelayMax: 0
+  ultFirstDelayMin: 0
+  ultFirstDelayMax: 0
+  ultAfterDelayMin: 0
+  ultAfterDelayMax: 0
+  icycle: {fileID: 6321148545482571788, guid: 5896a995b68c05f4b9aa5f9dca2458a6, type: 3}
+  skill2Damage: 60
+  skill2KnockBackDis: 5
+  skill2SknockSpeed: 15
+  height: 3.5
+  width: 3
+  s2KBTime: 0.3
+  s2InvTime: 0.5
+  rangeIns: {fileID: 1488549297066834731, guid: 3eb841a95353d4e4890156034ddf0fbf, type: 3}
+  range: {x: 3.5, y: 3.5}
+  inRange: 10
+  ultDamage: 20
+  ultKnockBackDis: 0
+  ultknockSpeed: 0
+  waitTime: 4
+  attackCount: 5
+  ult: {fileID: 7298852267557701884, guid: a2e64fd12b0f5114fa0f057cbbfba930, type: 3}
+  s3KBTime: 0.2
+  s3InvTime: 0.3

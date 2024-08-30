@@ -1,0 +1,200 @@
+﻿id,이름,텍스트 효과,한국어
+ID,Name,TextEffect_ID,KR
+1520000,GoalMessage1,1500004,엑스칼리버를 찾아라!
+1520001,GoalMessage2,1500004,엑스칼리버를 들고 던전을 탈출하라!
+1520002,GoalMessage3,1500004,엑스칼리버를 뺏어라!
+1520003,WindowTitle1,1500001,상점
+1520004,WindowTitle2,1500001,창고
+1520005,WindowTitle3,1500001,인벤토리
+1520006,WindowTitle4,1500001,설정
+1520007,ReturnWaitingRoom,1500000,대기방으로 돌아가기
+1520008,WatchOtherPlayer,1500000,다른 플레이어 관전
+1520009,Return,1500000,뒤로가기
+1520010,PositiveButton1,1500000,예
+1520011,NegativeButton1,1500000,아니오
+1520012,MarketEquipment,1500000,장비
+1520013,MarketConsumable,1500000,소모
+1520014,MarketSelling,1500000,판매
+1520015,LevelupLottoTitle,1500007,운명 역전 행운권
+1520016,LevelupLottoContent,1500008,제 회
+1520017,LevelupLottoClick,1500009,Click
+1520018,WinLoseLevel,1500010,LV.
+1520019,Lose,1500011,패 배
+1520020,Win,1500012,승 리!
+1520021,SettingNormal,1500000,일반
+1520022,SettingSound,1500000,사운드
+1520023,SettingVoiceChat,1500000,음성채팅
+1520024,SettingKey,1500000,키설정
+1520025,SettingResolution,1500002,해상도
+1520026,SettingLanguage,1500002,언어
+1520027,SettingMouse,1500002,마우스 감도
+1520028,SettingSound,1500002,전체 음량
+1520029,BackgroundSound,1500002,배경음
+1520030,EffectSound,1500002,효과음
+1520031,VoiceChatOnOff,1500002,음성채팅 활성화
+1520032,PressTalk,1500002,눌러서 말하기
+1520033,MoveKey,1500002,이동
+1520034,MoveUpKey,1500002,위 이동
+1520035,MoveDownKey,1500002,아래 이동
+1520036,MoveLeftKey,1500002,왼쪽 이동
+1520037,MoveRightKey,1500002,오른쪽 이동
+1520038,QuickSlotKey,1500002,퀵슬롯
+1520039,Slot1Key,1500002,아이템1
+1520040,Slot2Key,1500002,아이템2
+1520041,Slot3Key,1500002,아이템3
+1520042,JobSkillKey,1500002,전문직업스킬
+1520043,JobSkill1Key,1500002,전문직업스킬1
+1520044,JobSkill2Key,1500002,전문직업스킬2
+1520045,JobSkill3Key,1500002,전문직업스킬3
+1520046,BasicSkillKey,1500002,기초교양스킬
+1520047,BasicSkill1Key,1500002,기초교양스킬1
+1520048,BasicSkill2Key,1500002,기초교양스킬2
+1520049,TorchKey,1500002,횃불
+1520050,OtherSettingKey,1500002,일반
+1520051,InteractionKey,1500002,상호작용
+1520052,InventoryKey,1500002,인벤토리
+1520053,MapKey,1500002,맵
+1520054,KeyChange,1500003,변경할 키를 입력해주세요.
+1520055,KeyChangeO,1500003,해당 키로 변경 가능합니다
+1520056,KeyChangeX,1500003,해당 키로는 변경할 수 없습니다.
+1520057,KeyChangePush,1500003,해당 키는 키 입니다
+1520058,KeepChangeKey,1500015,한번 더 눌러 변경하기
+1520059,StorageExpansion,1500003,창고를 넓히시겠습니까?
+1520060,BuyItem,1500003,아이템을 구매하시겠습니까?
+1520061,SellItem,1500003,아이템을 판매하시겠습니까?
+1520062,PlaceItem,1500003,아이템을 배치할 수 없습니다.
+1520063,LackofMoney,1500003,금액이 부족합니다.
+1520064,StoragePrice,1500017,소모 금액:
+1520065,CurMoney,1500017,보유 금액:
+1520066,ItemPrice,1500017,아이템 가격:
+1520067,AfterBuy,1500017,구매 이후 금액:
+1520068,AfterSell,1500017,판매 이후 금액:
+1520069,KeyChangeCheck,1500003,변경하시겠습니까?
+1520070,ItemNameArmor,1500020,갑옷
+1520071,ItemNameHelm,1500020,투구
+1520072,ItemNameBoots,1500020,신발
+1520073,ItemNameGloves,1500020,장갑
+1520074,ItemNameLeather,1500020,가죽
+1520075,ItemNamePlastic,1500020,플라스틱 마법 코팅
+1520076,ItemNameSteel,1500020,강철
+1520077,ItemNamePower,1500020,시험 제작형 X-1 파워
+1520078,ItemDetailLeather,1500021,상태가 좋지 않은 가죽 방어구.|이상한 냄새가 난다...
+1520079,ItemDetailPlastic,1500021,마법의 힘으로 재빠른 움직임이|가능해진 방어구.|어째서 플라스틱의 마법 적응력이|높은지는 아직 연구되고 있다.
+1520080,ItemDetailSteel,1500021,무겁지만 튼튼하다.|이걸 입고 뛴다니...
+1520081,ItemDetailPower,1500021,온갖 강화주문이 걸린|강철제 방어구.|마치 누군가가 누르는 것 같다...
+1520082,ItemNameHPotion,1500020,회복 포션
+1520083,ItemNameLow,1500020,초급
+1520084,ItemNameMiddle,1500020,중급
+1520085,ItemNameHigh,1500020,상급
+1520086,ItemDetailLowP,1500021,유리병에 회복 물약을 담은 것.|유리병이 지저분하다...
+1520087,ItemDetailMidP,1500021,조금 더 커진 유리병에|물약을 담은 것.|감기약 맛이 난다...
+1520088,ItemDetailHighP,1500021,가장 비싼 유리병에 많이 담긴 것.|유통기한이 쓰여있지 않다...
+1520089,ItemNameBuffPotion,1500020,버프 포션
+1520090,ItemNameBPAtk,1500020,공격력
+1520091,ItemNameBPDef,1500020,방어력
+1520092,ItemNameBPAspd,1500020,공격속도
+1520093,ItemDetailBPAtk,1500021,공격력이 잠깐 증가하는 포션.|딸기 향이 난다.
+1520094,ItemDetailBPDef,1500021,방어력이 잠깐 증가하는 포션.|소다 향이 난다.
+1520095,ItemDetailBPAspd,1500021,공격속도가 잠깐 증가하는 포션.|레몬 향이 난다.
+1520096,ItemNameCan,1500020,보급형 통조림
+1520097,ItemDetailCan,1500021,정말 더럽게 맛없다.|납품업자를 의심해야 할 것 같다.
+1520098,ItemNameMRE,1500020,전투식량
+1520099,ItemDetailMRE,1500021,마법 발열팩의 개발로 물 없이도|따뜻한 음식 먹기가 가능해졌다.
+1520100,ItemNameCoin,1500020,금화
+1520101,ItemDetailCoin,1500021,휴대하기 불편한 주화.
+1520102,ItemNameRuby,1500020,루비
+1520103,ItemNameSapphire,1500020,사파이어
+1520104,ItemDetailGems,1500021,장비에 끼울 수 없다.
+1520105,ItemNameGoldbar,1500020,골드바
+1520106,ItemDetailGoldbar,1500021,오래된 보관 방식의 금 주괴.
+1520107,ItemNameCoinpocket,1500020,금화 주머니
+1520108,ItemDetailCoinpocket,1500021,미소가 저절로 지어진다.
+1520109,ItemNameOldart,1500020,오래된 그림
+1520110,ItemDetailOldart,1500021,몬스터가 약탈한 예술 작품.
+1520111,ItemNamePorcelain,1500020,도자기
+1520112,ItemDetailPorcelain,1500021,옛 사람들의 사치품.
+1520113,ItemNameThurible,1500020,고급스러운 향로
+1520114,ItemDetailThurible,1500021,묘한 냄새가 나는 고대 예술품.
+1520115,ItemNameMoneybag,1500020,돈가방
+1520116,ItemDetailMoneybag,1500021,칙칙한 가방인데 너무 아름답다!
+1520117,ItemGradeNormal,1500022,일반
+1520118,ItemGradeRare,1500023,희귀
+1520119,ItemGradeRelic,1500024,유물
+1520120,ItemGradeLegendary,1500025,전설
+1520121,ItemNameSpear,1500020,일반 창
+1520122,ItemDetailSpear,1500021,보급형 창.|찌르고 구멍을 파는데 유용하다.
+1520123,ItemNameFieldSpear,1500020,야전창
+1520124,ItemDetailFieldSpear,1500021,접이식이며 무겁습니다.
+1520125,ItemNameRedSpear,1500020,눈 치우는 야전창
+1520126,ItemDetailRedSpear,1500021,붉은 창날이 매우 무겁지만|타격할 때의 감각이 남다르다.
+1520127,ItemNameIronSword,1500020,철 검
+1520128,ItemDetailIronSword,1500021,주의사항 : 구부리거나 무리한|힘을 가하지 말 것.
+1520129,ItemNameFeatherSword,1500020,깃털검
+1520130,ItemDetailFeatherSword,1500021,깃털처럼 가볍다. |휘두르기 전 충분한 공간을|확보하여 주위를 배려할 것.
+1520131,ItemNameEnchantedSword,1500020,마법부여된 강철 장검
+1520132,ItemDetailEnchantedSword,1500021,"마법이 깃든 무거운 장검.|""마구 휘두르지 말 것|목에 걸지 말 것"""
+1520133,ItemNameStaff,1500020,보급형 지팡이
+1520134,ItemDetailStaff,1500021,가성비가 훌륭해 일반 시민들도|애용하는 마법 지팡이
+1520135,ItemNameHardStaff,1500020,철심 지팡이
+1520136,ItemDetailHardStaff,1500021,쉽게 부러지지 않아서|방어 수단으로 훌륭하다.
+1520137,ItemNamePlasticStaff,1500020,플라스틱 지팡이
+1520138,ItemDetailPlasticStaff,1500021,"""던전에 버리지 말고|한번 부러뜨려서 분리수거!"""
+1520139,ItemNameBow,1500020,일반 활
+1520140,ItemDetailBow,1500021,"""습기 및 먼지가 많은 장소에서|사용하거나 보관하지 마십시오."""
+1520141,ItemNamePlasticBow,1500020,마법강화 플라스틱 활
+1520142,ItemDetailPlasticBow,1500021,정해진 장소의 정해진 위치에|보관하라 쓰여있다.
+1520143,ItemNameCompoundBow,1500020,기계식 장궁
+1520144,ItemDetailCompoundBow,1500021,독특한 형태의 장궁.|안전관리규정은 반드시 지킬 것.
+1520145,ClassNameKnight,1500029,기사
+1520146,ClassNameWarrior,1500029,전사
+1520147,ClassNameWizzard,1500029,마법사
+1520148,ClassNameArcher,1500029,궁수
+1520149,ClassDetailKnight,1500031,"""돈 벌어서 스포츠 마차 살거다!"""
+1520150,ClassDetailWarrior,1500031,"""한정 캐릭터 뽑을 돈 벌어야 해!"""
+1520151,ClassDetailWizzard,1500031,"""마법 탈모약 연구비가 더 필요해!"""
+1520152,ClassDetailArcher,1500031,"""노력 없이 부자가 될거야!"""
+1520153,SkillNameKnight1,1500026,황금 투창
+1520154,SkillNameKnight2,1500026,부의 일격
+1520155,SkillNameKnight3,1500026,떼돈 버티기
+1520156,SkillNameWarrior1,1500026,단차 삼회검
+1520157,SkillNameWarrior2,1500026,대연속 지르기
+1520158,SkillNameWarrior3,1500026,번쩍이는 충동
+1520159,SkillNameWizzard1,1500026,'모자람' 없는 냉기탄
+1520160,SkillNameWizzard2,1500026,'매끄러운' 밀치기
+1520161,SkillNameWizzard3,1500026,대마법 풍성빙
+1520162,SkillNameArcher1,1500026,'일회용' 일격 화살
+1520163,SkillNameArcher2,1500026,'일회용' 폭발 화살
+1520164,SkillNameArcher3,1500026,재사용 갈고리 화살
+1520165,SkillDetailKnight1,1500027,창을 던져 피해를 주고|맞은 상대를 끌어옵니다.
+1520166,SkillDetailKnight2,1500027,앞으로 조금 돌격하며|피해를 줍니다.
+1520167,SkillDetailKnight3,1500027,활성화시 공격력 감소|방어력 증가|넉백을 무시합니다.
+1520168,SkillDetailWarrior1,1500027,조금 돌격하며 공격.|3번까지 사용 가능합니다.
+1520169,SkillDetailWarrior2,1500027,제자리에서 연속 찌르기로|공격합니다.
+1520170,SkillDetailWarrior3,1500027,순식간에 돌진하며 피해를 줍니다.
+1520171,SkillDetailWizzard1,1500027,얼음 조각을 생성해 발사합니다.
+1520172,SkillDetailWizzard2,1500027,전방 범위의 상대를 밀칩니다.
+1520173,SkillDetailWizzard3,1500027,5초 뒤 생성되는|범위 마법 공격을 시전합니다.
+1520174,SkillDetailArcher1,1500027,강한 원거리 사격을 합니다.
+1520175,SkillDetailArcher2,1500027,적중 이후 폭발하는 사격을 합니다.
+1520176,SkillDetailArcher3,1500027,벽과 적에 걸 수 있는|갈고리를 발사합니다.|적에게 적중시 날아차기를 합니다.
+1520177,SkillNameDash,1500026,대쉬
+1520178,SkillNamePendant,1500026,펜던트
+1520179,SkillNameHeal,1500026,회복
+1520180,SkillNameAmbush,1500026,매복
+1520181,SkillDetailDash,1500027,이동하던 방향으로 짧고 빠르게|대쉬합니다.
+1520182,SkillDetailPendant,1500027,체력이 0 이하가 되는 경우|5초 이후 최대체력 15%로|부활합니다.
+1520183,SkillDetailHeal,1500027,최대 체력의 2%씩|10초동안 회복합니다.|끝까지 유지되면 추가로 10%|회복합니다.
+1520184,SkillDetailAmbush,1500027,보물상자로 위장합니다.|초당 3의 체력이 회복됩니다.
+1520185,SkillTypeClose,1500030,근거리
+1520186,SkillTypeLong,1500030,원거리
+1520187,SkillTextAtk,1500028,공격력
+1520188,SkillTextDef,1500028,방어력
+1520189,SkillTextDmg150,1500028,150% 피해
+1520190,SkillTextDmg200,1500028,200% 피해
+1520191,SkillTextKnight3,1500028,공격력 50% 감소|방어력50%증가|넉백 저항
+1520192,SkillTextWarrior1,1500028,각각 공격력 90/90/180%의 피해
+1520193,SkillTextDmg250,1500028,250% 피해
+1520194,SkillTextDmg120,1500028,120% 피해
+1520195,SkillTextDmg180,1500028,180% 피해
+1520196,SkillTextWizzard3,1500028,각각 공격력 180% 피해 / 총 5회
+1520197,SkillTextArcher2,1500028,적중 : 공격력 80%의 피해|폭발 : 공격력 80%의 피해

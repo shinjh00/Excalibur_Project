@@ -1,0 +1,554 @@
+ID,타입,이름,경로
+ID,Type,Name,Route
+1600000,0,-9999,-9999
+1600001,0,-9999,-9999
+1610000,1,-9999,1.Effect/Skill/Wizard/Effect_Skill_Wizard_Skill1
+1610001,1,-9999,1.Effect/Skill/Wizard/Effect_Skill_Wizard_Skill2_CreateIce
+1610002,1,-9999,1.Effect/Skill/Wizard/Effect_Skill_Wizard_Skill3_Explosion
+1610003,1,-9999,1.Effect/Skill/Warrior/Effect_Skill_Warrior_Skill1_12_Dash
+1610004,1,-9999,1.Effect/Skill/Effect_Skill_Warrior_Skill1_3_Dash
+1610005,1,-9999,1.Effect/Skill/Warrior/Effect_Skill_Warrior_Skill2
+1610006,1,-9999,1.Effect/Skill/Warrior/Effect_Skill_Warrior_Skill3
+1610007,1,-9999,1.Effect/Skill/KnightTemplar/Effect_Skill_KnightTemplar_Skill1
+1610008,1,-9999,1.Effect/Skill/KnightTemplar/Effect_Skill_KnightTemplar_Skill2
+1610009,1,-9999,1.Effect/Skill/KnightTemplar/Effect_Skill_KnightTemplar_Skill3
+1610010,1,Effect_Skill_Archer_Skill1,1.Effect/Skill/Archer
+1610011,1,Effect_Skill_Archer_Skill2,1.Effect/Skill/Archer
+1610012,1,Effect_Skill_Archer_Skill2_ExplosionEffect,1.Effect/Skill/Archer/Effect_Skill_Archer_Skill2_ExplosionEffect
+1610013,1,Effect_Skill_Archer_Skill3_Throw,1.Effect/Skill/Archer
+1610014,1,Effect_Skill_Archer_Skill3_Hit,1.Effect/Skill/Archer/Effect_Skill_Archer_Skill3_Hit
+1610015,1,mimic_attack,1.Effect/Monster/Mimic_Attack
+1610016,1,Food_HealEffect,1.Effect/Item/Food
+1610017,1,Potion_HealEffect,1.Effect/Item/HealPotion
+1610018,1,Potion_BuffEffect_Attack,1.Effect/Item/Potion_BuffEffect
+1610019,1,Potion_BuffEffect_Defense,1.Effect/Item/Potion_BuffEffect
+1610020,1,Potion_BuffEffect_AttackSpd,1.Effect/Item/Potion_BuffEffect
+1610021,1,Heal_Effect,1.Effect/CommonSkill
+1610022,1,Pendant_Effect,1.Effect/CommonSkill
+1610023,1,Ambush_Effect,1.Effect/CommonSkill
+1610024,1,Excal_Effect_Transform,1.Effect/Excalibur
+1610025,1,Excal_Effect_Attack01,1.Effect/Skill/Excalibur
+1610026,1,Excal_Effect_Attack02,1.Effect/Skill/Excalibur
+1610027,1,Excal_Effect_Attack03Charge,1.Effect/Skill/Excalibur
+1610028,1,Excal_Effect_Attack03,1.Effect/Skill/Excalibur
+1610029,1,Excal_Effect_Buff,1.Effect/Excalibur
+1610030,1,-9999,1.Effect/Excalibur/Portal/effect158_normal_portal
+1610031,1,-9999,1.Effect/Excalibur/Portal/skill_eff_646_escape_portal
+1610032,1,Effect_Skill_Archer_BasicAttack_Set,1.Effect/Skill/Archer
+1610033,1,Effect_Skill_KnightTemplar_BasicAttack_Set,1.Effect/Skill/KnightTemplar
+1610034,1,Effect_Skill_Warrior_BasicAttack_Set,1.Effect/Skill/Warrior
+1610035,1,Effect_Skill_Warrior_Skill1_1,1.Effect/Skill/Warrior/Effect_Skill_Warrior_Skill1
+1610036,1,Effect_Skill_Warrior_Skill1_2,1.Effect/Skill/Warrior/Effect_Skill_Warrior_Skill1
+1610037,1,Effect_Skill_Warrior_Skill1_3,1.Effect/Skill/Warrior/Effect_Skill_Warrior_Skill1
+1610038,1,SpiderWeb_Effect_Set,1.Effect/Trap
+1610039,1,Fog,1.Effect/Trap/Fog
+1610040,1,Effect_Skill_Warrior_Skill2,1.Effect/Skill/Warrior/Effect_Skill_Warrior_Skill2
+1610041,1,-9999,-9999
+1610042,1,Wizard_BasicAttack_Effect,1.Effect/Skill/Wizard
+1610043,1,Excal_Effect_Attack03Charge1,1.Effect/Skill/Excalibur/Excal_Effect_Attack03Charge
+1610044,1,Excal_Effect_Attack03Charge2,1.Effect/Skill/Excalibur/Excal_Effect_Attack03Charge
+1610045,1,Archer_Skill1_Object,1.Effect/Skill/Archer
+1610046,1,Archer_Skill2_Object,1.Effect/Skill/Archer
+1610047,1,Icon_Archer_Bomb,1.Effect/Skill/Archer
+1610048,1,Levelup,1.Effect/Character/Common
+1620000,2,Icon_Equip_DefaultSpear_Normal,2.Sprite/Item/Icon
+1620001,2,Icon_Equip_DefaultSpear_Rare,2.Sprite/Item/Icon
+1620002,2,Icon_Equip_DefaultSpear_Relic,2.Sprite/Item/Icon
+1620003,2,Icon_Equip_HeavySpear_Rare,2.Sprite/Item/Icon
+1620004,2,Icon_Equip_HeavySpear_Relic,2.Sprite/Item/Icon
+1620005,2,Icon_Equip_HeavySpear_Legend,2.Sprite/Item/Icon
+1620006,2,Icon_Equip_OneShotSpear_Legend,2.Sprite/Item/Icon
+1620007,2,Icon_Equip_DefaultSword_Normal,2.Sprite/Item/Icon
+1620008,2,Icon_Equip_DefaultSword_Rare,2.Sprite/Item/Icon
+1620009,2,Icon_Equip_DefaultSword_Relic,2.Sprite/Item/Icon
+1620010,2,Icon_Equip_QuickSword_Rare,2.Sprite/Item/Icon
+1620011,2,Icon_Equip_QuickSword_Relic,2.Sprite/Item/Icon
+1620012,2,Icon_Equip_QuickSword_Legend,2.Sprite/Item/Icon
+1620013,2,Icon_Equip_OneShotSword_Legend,2.Sprite/Item/Icon
+1620014,2,Icon_Equip_DefaultStaff_Normal,2.Sprite/Item/Icon
+1620015,2,Icon_Equip_DefaultStaff_Rare,2.Sprite/Item/Icon
+1620016,2,Icon_Equip_DefaultStaff_Relic,2.Sprite/Item/Icon
+1620017,2,Icon_Equip_HPStaff_Rare,2.Sprite/Item/Icon
+1620018,2,Icon_Equip_HPStaff_Relic,2.Sprite/Item/Icon
+1620019,2,Icon_Equip_HPStaff_Legend,2.Sprite/Item/Icon
+1620020,2,Icon_Equip_QuickStaff_Legend,2.Sprite/Item/Icon
+1620021,2,Icon_Equip_DefaultBow_Normal,2.Sprite/Item/Icon
+1620022,2,Icon_Equip_DefaultBow_Rare,2.Sprite/Item/Icon
+1620023,2,Icon_Equip_DefaultBow_Relic,2.Sprite/Item/Icon
+1620024,2,Icon_Equip_QuickBow_Rare,2.Sprite/Item/Icon
+1620025,2,Icon_Equip_QuickBow_Relic,2.Sprite/Item/Icon
+1620026,2,Icon_Equip_QuickBow_Legend,2.Sprite/Item/Icon
+1620027,2,Icon_Equip_FixedBow_Legend,2.Sprite/Item/Icon
+1620028,2,Icon_Equip_DefaultHead_Normal,2.Sprite/Item/Icon
+1620029,2,Icon_Equip_DefaultHead_Rare,2.Sprite/Item/Icon
+1620030,2,Icon_Equip_DefaultHead_Relic,2.Sprite/Item/Icon
+1620031,2,Icon_Equip_QuickHead_Rare,2.Sprite/Item/Icon
+1620032,2,Icon_Equip_QuickHead_Relic,2.Sprite/Item/Icon
+1620033,2,Icon_Equip_QuickHead_Legend,2.Sprite/Item/Icon
+1620034,2,Icon_Equip_HeavyHead_Rare,2.Sprite/Item/Icon
+1620035,2,Icon_Equip_HeavyHead_Relic,2.Sprite/Item/Icon
+1620036,2,Icon_Equip_HeavyHead_Legend,2.Sprite/Item/Icon
+1620037,2,Icon_Equip_ForceHead_Legend,2.Sprite/Item/Icon
+1620038,2,Icon_Equip_DefaultArm_Normal,2.Sprite/Item/Icon
+1620039,2,Icon_Equip_DefaultArm_Rare,2.Sprite/Item/Icon
+1620040,2,Icon_Equip_DefaultArm_Relic,2.Sprite/Item/Icon
+1620041,2,Icon_Equip_QuickArm_Rare,2.Sprite/Item/Icon
+1620042,2,Icon_Equip_QuickArm_Relic,2.Sprite/Item/Icon
+1620043,2,Icon_Equip_QuickArm_Legend,2.Sprite/Item/Icon
+1620044,2,Icon_Equip_HeavyArm_Rare,2.Sprite/Item/Icon
+1620045,2,Icon_Equip_HeavyArm_Relic,2.Sprite/Item/Icon
+1620046,2,Icon_Equip_HeavyArm_Legend,2.Sprite/Item/Icon
+1620047,2,Icon_Equip_ForceArm_Legend,2.Sprite/Item/Icon
+1620048,2,Icon_Equip_DefaultLeg_Normal,2.Sprite/Item/Icon
+1620049,2,Icon_Equip_DefaultLeg_Rare,2.Sprite/Item/Icon
+1620050,2,Icon_Equip_DefaultLeg_Relic,2.Sprite/Item/Icon
+1620051,2,Icon_Equip_QuickLeg_Rare,2.Sprite/Item/Icon
+1620052,2,Icon_Equip_QuickLeg_Relic,2.Sprite/Item/Icon
+1620053,2,Icon_Equip_QuickLeg_Legend,2.Sprite/Item/Icon
+1620054,2,Icon_Equip_HeavyLeg_Rare,2.Sprite/Item/Icon
+1620055,2,Icon_Equip_HeavyLeg_Relic,2.Sprite/Item/Icon
+1620056,2,Icon_Equip_HeavyLeg_Legend,2.Sprite/Item/Icon
+1620057,2,Icon_Equip_ForceLeg_Legend,2.Sprite/Item/Icon
+1620058,2,Icon_Equip_DefaultArmor_Normal,2.Sprite/Item/Icon
+1620059,2,Icon_Equip_DefaultArmor_Rare,2.Sprite/Item/Icon
+1620060,2,Icon_Equip_DefaultArmor_Relic,2.Sprite/Item/Icon
+1620061,2,Icon_Equip_QuickArmor_Rare,2.Sprite/Item/Icon
+1620062,2,Icon_Equip_QuickArmor_Relic,2.Sprite/Item/Icon
+1620063,2,Icon_Equip_QuickArmor_Legend,2.Sprite/Item/Icon
+1620064,2,Icon_Equip_HeavyArmor_Rare,2.Sprite/Item/Icon
+1620065,2,Icon_Equip_HeavyArmor_Relic,2.Sprite/Item/Icon
+1620066,2,Icon_Equip_HeavyArmor_Legend,2.Sprite/Item/Icon
+1620067,2,Icon_Equip_ForceArmor_Legend,2.Sprite/Item/Icon
+1620068,2,Icon_Consumable_HealPotion_Normal,2.Sprite/Item/Icon
+1620069,2,Icon_Consumable_HealPotion_Rare,2.Sprite/Item/Icon
+1620070,2,Icon_Consumable_HealPotion_Relic,2.Sprite/Item/Icon
+1620071,2,Icon_Consumable_BuffPotion_Attack,2.Sprite/Item/Icon
+1620072,2,Icon_Consumable_BuffPotion_Defense,2.Sprite/Item/Icon
+1620073,2,Icon_Consumable_BuffPotion_AttackSpd,2.Sprite/Item/Icon
+1620074,2,Icon_Food_SeafoodCan,2.Sprite/Item/Icon
+1620075,2,Icon_Food_MRE,2.Sprite/Item/Icon
+1620076,2,Icon_SellingItem_Coin,2.Sprite/Item/Icon
+1620077,2,Icon_SellingItem_Ruby,2.Sprite/Item/Icon
+1620078,2,Icon_SellingItem_GoldBar,2.Sprite/Item/Icon
+1620079,2,Icon_SellingItem_Sappire,2.Sprite/Item/Icon
+1620080,2,Icon_SellingItem_CoinBag,2.Sprite/Item/Icon
+1620081,2,Icon_SellingItem_Paint,2.Sprite/Item/Icon
+1620082,2,Icon_SellingItem_Pottery,2.Sprite/Item/Icon
+1620083,2,Icon_SellingItem_Burner,2.Sprite/Item/Icon
+1620084,2,Icon_SellingItem_MoneyBag,2.Sprite/Item/Icon
+1620085,2,Banana_Image,2.Sprite/Trap
+1620086,2,Coffin_Image,2.Sprite/Trap
+1620087,2,Spider_Trap,2.Sprite/Trap
+1620088,2,SpikeImage,2.Sprite/Trap
+1620089,2,-9999,-9999
+1620090,2,-9999,-9999
+1620091,2,Orc-Idle,2.Sprite/Monster/Orc/Orc with shadows
+1620092,2,Orc-Walk,2.Sprite/Monster/Orc/Orc with shadows
+1620093,2,Orc-Attack01,2.Sprite/Monster/Orc/Orc with shadows
+1620094,2,Orc-Hurt,2.Sprite/Monster/Orc/Orc with shadows
+1620095,2,Orc-Death,2.Sprite/Monster/Orc/Orc with shadows
+1620096,2,Armored Orc-Idle,2.Sprite/Monster/Armored Orc/Armored Orc with shadows
+1620097,2,Armored Orc-Walk,2.Sprite/Monster/Armored Orc/Armored Orc with shadows
+1620098,2,Armored Orc-Attack01,2.Sprite/Monster/Armored Orc/Armored Orc with shadows
+1620099,2,Armored Orc-Hurt,2.Sprite/Monster/Armored Orc/Armored Orc with shadows
+1620100,2,Armored Orc-Death,2.Sprite/Monster/Armored Orc/Armored Orc with shadows
+1620101,2,Elite Orc-Idle,2.Sprite/Monster/Elite Orc/Elite Orc with shadows
+1620102,2,Elite Orc-Walk,2.Sprite/Monster/Elite Orc/Elite Orc with shadows
+1620103,2,Elite Orc-Attack03,2.Sprite/Monster/Elite Orc/Elite Orc with shadows
+1620104,2,Elite Orc-Hurt,2.Sprite/Monster/Elite Orc/Elite Orc with shadows
+1620105,2,Elite Orc-Death,2.Sprite/Monster/Elite Orc/Elite Orc with shadows
+1620106,2,Skeleton-Idle,2.Sprite/Monster/Skeleton/Skeleton with shadows
+1620107,2,Skeleton-Walk,2.Sprite/Monster/Skeleton/Skeleton with shadows
+1620108,2,Skeleton-Attack01,2.Sprite/Monster/Skeleton/Skeleton with shadows
+1620109,2,Skeleton-Attack02,2.Sprite/Monster/Skeleton/Skeleton with shadows
+1620110,2,Skeleton-Hurt,2.Sprite/Monster/Skeleton/Skeleton with shadows
+1620111,2,Skeleton-Death,2.Sprite/Monster/Skeleton/Skeleton with shadows
+1620112,2,Armored Skeleton-Idle,2.Sprite/Monster/Armored Skeleton/Armored Skeleton with shadows
+1620113,2,Armored Skeleton-Walk,2.Sprite/Monster/Armored Skeleton/Armored Skeleton with shadows
+1620114,2,Armored Skeleton-Attack01,2.Sprite/Monster/Armored Skeleton/Armored Skeleton with shadows
+1620115,2,Armored Skeleton-Attack02,2.Sprite/Monster/Armored Skeleton/Armored Skeleton with shadows
+1620116,2,Armored Skeleton-Hurt,2.Sprite/Monster/Armored Skeleton/Armored Skeleton with shadows
+1620117,2,Armored Skeleton-Death,2.Sprite/Monster/Armored Skeleton/Armored Skeleton with shadows
+1620118,2,Slime-Idle,2.Sprite/Monster/Slime/Slime with shadows
+1620119,2,Slime-Walk,2.Sprite/Monster/Slime/Slime with shadows
+1620120,2,Slime-Attack,2.Sprite/Monster/Slime/Slime with shadows
+1620121,2,Slime-Hurt,2.Sprite/Monster/Slime/Slime with shadows
+1620122,2,Slime-Death,2.Sprite/Monster/Slime/Slime with shadows
+1620123,2,mimic_attack,2.Sprite/Monster/Mimic
+1620124,2,Food_HealEffect,2.Sprite/Item/Food
+1620125,2,Potion_HealEffect,2.Sprite/Item/HealPotion
+1620126,2,Potion_BuffEffect_Attack,2.Sprite/Item/AttackBuffPotion
+1620127,2,Potion_BuffEffect_Defense,2.Sprite/Item/DefenseBuffPotion
+1620128,2,Potion_BuffEffect_AttackSpd,2.Sprite/Item/AttackSpdBuffPotion
+1620129,2,Heal_Effect,2.Sprite/CommonSkill
+1620130,2,Pendant_Effect,2.Sprite/CommonSkill
+1620131,2,Ambush_Effect,2.Sprite/CommonSkill
+1620132,2,Excal_Effect_Transform,2.Sprite/Character/Excalibur
+1620133,2,Excal_Effect_Attack01,2.Sprite/Character/Excalibur
+1620134,2,Excal_Effect_Attack02,2.Sprite/Character/Excalibur
+1620135,2,Excal_Effect_Attack03Charge,2.Sprite/Character/Excalibur
+1620136,2,Excal_Effect_Attack03,2.Sprite/Character/Excalibur
+1620137,2,Excal_Effect_Buff,2.Sprite/Character/Excalibur
+1620138,2,Archer_ClassImage,2.Sprite/Character/Archer
+1620139,2,KnightTemplar_ClassImage,2.Sprite/Character/KnightTemplar
+1620140,2,Wizard_ClassImage,2.Sprite/Character/Wizard
+1620141,2,Warrior_ClassImage,2.Sprite/Character/Warrior
+1620142,2,Sprite_Excalibur_Activate,2.Sprite/Excalibur
+1620143,2,Sprite_Excalibur_Normal,2.Sprite/Excalibur
+1620144,2,Excalibur_ClassImage,2.Sprite/Character/Excalibur
+1620145,2,GoalpostR,2.Sprite/WaitingRoom
+1620146,2,GoalpostL,2.Sprite/WaitingRoom
+1620147,2,ReadyArea,2.Sprite/WaitingRoom
+1620148,2,ball_object,2.Sprite/WaitingRoom
+1620149,2,ArcherImage_Skill1,2.Sprite/SkillImage
+1620150,2,ArcherImage_Skill2,2.Sprite/SkillImage
+1620151,2,ArcherImage_Skill3,2.Sprite/SkillImage
+1620152,2,KnightImage_Skill1,2.Sprite/SkillImage
+1620153,2,KnightImage_Skill2,2.Sprite/SkillImage
+1620154,2,KnightImage_Skill3,2.Sprite/SkillImage
+1620155,2,WizardImage_Skill1,2.Sprite/SkillImage
+1620156,2,WizardImage_Skill2,2.Sprite/SkillImage
+1620157,2,WizardImage_Skill3,2.Sprite/SkillImage
+1620158,2,ExcaliburImage_Skill1,2.Sprite/SkillImage
+1620159,2,ExcaliburImage_Skill2,2.Sprite/SkillImage
+1620160,2,Cheest Anim 1,2.Sprite/Chest
+1620161,2,GoldenCheest Anim 1,2.Sprite/Chest
+1620162,2,GreenCheest Anim 1,2.Sprite/Chest
+1620163,2,LegendChestClose,2.Sprite/Chest
+1620164,2,Armored Orc-Death,2.Sprite/Monster
+1620165,2,Armored Skeleton-Death,2.Sprite/Monster
+1620166,2,Elite Orc-Death,2.Sprite/Monster
+1620167,2,Orc-Death,2.Sprite/Monster
+1620168,2,Skeleton-Death,2.Sprite/Monster
+1620169,2,Slime-Death,2.Sprite/Monster
+1630000,3,Animation_Character_Archer_BasicAttack_Set,3.Animation/Character/Archer
+1630001,3,Animation_Character_Archer_Death_Set,3.Animation/Character/Archer
+1630002,3,Animation_Character_Archer_Ghost_Set,3.Animation/Character/Archer
+1630003,3,Animation_Character_Archer_Hurt_Set,3.Animation/Character/Archer
+1630004,3,Animation_Character_Archer_Idle_Set,3.Animation/Character/Archer
+1630005,3,Animation_Character_Archer_Skill01_Set,3.Animation/Character/Archer
+1630006,3,Animation_Character_Archer_Walk_Set,3.Animation/Character/Archer
+1630007,3,Animation_Character_ArcherBow_BasicAttack_Set,3.Animation/Character/Archer
+1630008,3,Animation_Character_ArcherBow_Skill01_Set,3.Animation/Character/Archer
+1630009,3,Animation_Character_KnightTemplar_BasicAttack_Set,3.Animation/Character/KnightTemplar
+1630010,3,Animation_Character_KnightTemplar_Death_Set,3.Animation/Character/KnightTemplar
+1630011,3,Animation_Character_KnightTemplar_Ghost_Set,3.Animation/Character/KnightTemplar
+1630012,3,Animation_Character_KnightTemplar_Hurt_Set,3.Animation/Character/KnightTemplar
+1630013,3,Animation_Character_KnightTemplar_Idle_Set,3.Animation/Character/KnightTemplar
+1630014,3,Animation_Character_KnightTemplar_Skill01_Set,3.Animation/Character/KnightTemplar
+1630015,3,Animation_Character_KnightTemplar_Skill02_Set,3.Animation/Character/KnightTemplar
+1630016,3,Animation_Character_KnightTemplar_Walk_Set,3.Animation/Character/KnightTemplar
+1630017,3,Warrior-Attack01-character-noSword,3.Animation/Character/Warrior
+1630018,3,Warrior-Attack02-character-noSword,3.Animation/Character/Warrior
+1630019,3,Warrior-Attack3-character-noSword,3.Animation/Character/Warrior
+1630020,3,Warrior-Death-noSword,3.Animation/Character/Warrior
+1630021,3,Warrior-Ghost-noSword,3.Animation/Character/Warrior
+1630022,3,Warrior-Hurt-noSword,3.Animation/Character/Warrior
+1630023,3,Warrior-Idle-noSword,3.Animation/Character/Warrior
+1630024,3,Warrior-Walk-noSword,3.Animation/Character/Warrior
+1630025,3,Animation_Character_Wizard_BasicAttack_Set,3.Animation/Character/Wizard
+1630026,3,Animation_Character_Wizard_Death_Set,3.Animation/Character/Wizard
+1630027,3,Animation_Character_Wizard_Ghost_Set,3.Animation/Character/Wizard
+1630028,3,Animation_Character_Wizard_Hurt_Set,3.Animation/Character/Wizard
+1630029,3,Animation_Character_Wizard_Idle_Set,3.Animation/Character/Wizard
+1630030,3,Animation_Character_Wizard_Skill01_Set,3.Animation/Character/Wizard
+1630031,3,Animation_Character_Wizard_Walk_Set,3.Animation/Character/Wizard
+1630032,3,Animation_Character_Excalibur_Death_Set,3.Animation/Character/Excalibur
+1630033,3,Animation_Character_Excalibur_Hurt_Set,3.Animation/Character/Excalibur
+1630034,3,Animation_Character_Excalibur_Idle_Set,3.Animation/Character/Excalibur
+1630035,3,Animation_Character_Excalibur_Walk_Set,3.Animation/Character/Excalibur
+1630036,3,Spider,3.Animation/Trap
+1630037,3,ExplodeSpider,3.Animation/Trap
+1630038,3,CloseSpider,3.Animation/Trap
+1630039,3,CoffinAnim,3.Animation/Trap
+1630040,3,Trap,3.Animation/Trap
+1630041,3,TrapOff,3.Animation/Trap
+1630042,3,FogAnim01,3.Animation/Trap/TrapFogEff
+1630043,3,Orc_Idle,3.Animation/Monster/Orc
+1630044,3,Orc_Walk,3.Animation/Monster/Orc
+1630045,3,Orc_Attack,3.Animation/Monster/Orc
+1630046,3,Orc_Hit,3.Animation/Monster/Orc
+1630047,3,Orc_Die,3.Animation/Monster/Orc
+1630048,3,Armor_Orc_Idle,3.Animation/Monster/Armor_Orc
+1630049,3,Armor_Orc_Walk,3.Animation/Monster/Armor_Orc
+1630050,3,Armor_Orc_Attack,3.Animation/Monster/Armor_Orc
+1630051,3,Armor_Orc_Hit,3.Animation/Monster/Armor_Orc
+1630052,3,Armor_Orc_Die,3.Animation/Monster/Armor_Orc
+1630053,3,Elite_Orc_Idle,3.Animation/Monster/Elite_Orc
+1630054,3,Elite_Orc_Walk,3.Animation/Monster/Elite_Orc
+1630055,3,Elite_Orc_Attack,3.Animation/Monster/Elite_Orc
+1630056,3,Elite_Orc_Hit,3.Animation/Monster/Elite_Orc
+1630057,3,Elite_Orc_Die,3.Animation/Monster/Elite_Orc
+1630058,3,Skeleton_Idle,3.Animation/Monster/Skeleton
+1630059,3,Skeleton_Walk,3.Animation/Monster/Skeleton
+1630060,3,Skeleton_Attack,3.Animation/Monster/Skeleton
+1630061,3,Skeleton_Hit,3.Animation/Monster/Skeleton
+1630062,3,Skeleton_Die,3.Animation/Monster/Skeleton
+1630063,3,Armor_Skeleton_Idle,3.Animation/Monster/Armor_Skeleton
+1630064,3,Armor_Skeleton_Walk,3.Animation/Monster/Armor_Skeleton
+1630065,3,Armor_Skeleton_Attack,3.Animation/Monster/Armor_Skeleton
+1630066,3,Armor_Skeleton_Hit,3.Animation/Monster/Armor_Skeleton
+1630067,3,Armor_Skeleton_Die,3.Animation/Monster/Armor_Skeleton
+1630068,3,Slime_Idle,3.Animation/Monster/Slime
+1630069,3,Slime_Move,3.Animation/Monster/Slime
+1630070,3,Slime_Attack,3.Animation/Monster/Slime
+1630071,3,Slime_Hit,3.Animation/Monster/Slime
+1630072,3,Slime_Die,3.Animation/Monster/Slime
+1640000,4,Wall_TopLeft,4.Tile/Map/Dungeon
+1640001,4,Wall_TopRight,4.Tile/Map/Dungeon
+1640002,4,Wall_TopCenter,4.Tile/Map/Dungeon
+1640003,4,Left_Bottom,4.Tile/Map/Dungeon
+1640004,4,Right_Bottom,4.Tile/Map/Dungeon
+1640005,4,Wall_Bottom,4.Tile/Map/Dungeon
+1640006,4,Wall_Top,4.Tile/Map/Dungeon
+1640007,4,Wall_Right,4.Tile/Map/Dungeon
+1640008,4,Wall_Left,4.Tile/Map/Dungeon
+1640009,4,Floor_Tile,4.Tile/Map/Dungeon
+1640010,4,None_Tile,4.Tile/Map/Dungeon
+1640011,4,Fow_Tile,4.Tile/Map/Dungeon
+1640012,4,Wall_J,4.Tile/Map/Dungeon
+1640013,4,Wall_K,4.Tile/Map/Dungeon
+1640014,4,Wall_Cross,4.Tile/Map/Dungeon
+1640015,4,Tile_Center,4.Tile/Map/Dungeon
+1640016,4,Random0_Floor,4.Tile/Map/Dungeon
+1640017,4,Random1_Floor,4.Tile/Map/Dungeon
+1640018,4,Random2_Floor,4.Tile/Map/Dungeon
+1640019,4,Random3_Floor,4.Tile/Map/Dungeon
+1640020,4,wall-1,4.Tile/Map/Dungeon
+1640021,4,tiles_dungeon_v1.1 1,4.Tile/Map/Dungeon
+1640022,4,MapFloor,4.Tile/Map/Dungeon
+1650000,5,Retro Event Acute 07,5.Sound/Item
+1650001,5,Retro Event Acute 11,5.Sound/Item
+1650002,5,Select 1,5.Sound/UI
+1650003,5,Cancel 1,5.Sound/UI
+1650004,5,Retro Water Drop 04,5.Sound/Item
+1650005,5,fnt_ui_use_item_05,5.Sound/Item
+1650006,5,fnt_ui_use_item_01,5.Sound/Item
+1650007,5,Sound_Character_Wizard_Attack,5.Sound/Character
+1650008,5,Sound_Character_Wizard_Skill1,5.Sound/Character
+1650009,5,Sound_Character_Wizard_Skill2_CreateIce,5.Sound/Character
+1650010,5,Sound_Character_Wizard_Skill2_Throw,5.Sound/Character
+1650011,5,Sound_Character_Wizard_Skill3,5.Sound/Character
+1650012,5,Sound_Charactor_Swordman_Attack,5.Sound/Character
+1650013,5,Sound_Character_Swordman_Skill1,5.Sound/Character
+1650014,5,Sound_Character_Swordman_Skill2,5.Sound/Character
+1650015,5,Sound_Character_Swordman_Skill3_1,5.Sound/Character
+1650016,5,Sound_Character_Swordman_Skill3_2,5.Sound/Character
+1650017,5,Sound_Character_KightTemplar_Attack,5.Sound/Character
+1650018,5,Sound_Character_KightTemplar_Skill1_Pull,5.Sound/Character
+1650019,5,Sound_Character_KightTemplar_Skill1_Throw,5.Sound/Character
+1650020,5,Sound_Character_KightTemplar_Skill2,5.Sound/Character
+1650021,5,Sound_Character_KightTemplar_Skill3_Off,5.Sound/Character
+1650022,5,Sound_Character_KightTemplar_Skill3_On,5.Sound/Character
+1650023,5,Sound_Character_Archer_Attack,5.Sound/Character
+1650024,5,Sound_Character_Archer_Skill1,5.Sound/Character
+1650025,5,Sound_Character_Archer_Skill2_Arrow,5.Sound/Character
+1650026,5,Sound_Character_Archer_Skill2_Bomb,5.Sound/Character
+1650027,5,Sound_Character_Archer_Skill3_Throw,5.Sound/Character
+1650028,5,Sound_Character_Archer_Skill3_Move,5.Sound/Character
+1650029,5,Sound_Character_Archer_Skill3_Impact,5.Sound/Character
+1650030,5,Banana_Active,5.Sound/Trap
+1650031,5,Coffin_Active,5.Sound/Trap
+1650032,5,SpiderTrap_Active,5.Sound/Trap
+1650033,5,Orc_Dying,5.Sound/Monster
+1650034,5,Orc_Hit,5.Sound/Monster
+1650035,5,Orc_Attack,5.Sound/Monster
+1650036,5,Skeleton_Dying,5.Sound/Monster
+1650037,5,Skeleton_Hit,5.Sound/Monster
+1650038,5,Skeleton_Attack,5.Sound/Monster
+1650039,5,Slime_Dying,5.Sound/Monster
+1650040,5,Slime_Hit,5.Sound/Monster
+1650041,5,Slime_Attack,5.Sound/Monster
+1650042,5,Arcade Game Jump 20,5.Sound/Character
+1650043,5,Hit 1,5.Sound/Character
+1650044,5,Retro Charge SciFi StereoUP 01,5.Sound/Object
+1650045,5,Sound_OutCircle_Damage,5.Sound/Object
+1650046,5,Sound_Character_Torch_On,5.Sound/Character
+1650047,5,Sound_Character_Torch_Off,5.Sound/Character
+1650048,5,Retro_Music_ABMU_ChipWave_07,5.Sound/BGM
+1650049,5,chill game victory 3,5.Sound/UI
+1650050,5,Retro Negative Short 03,5.Sound/UI
+1650051,5,Sound_CommomSkill_Dash,5.Sound/Character
+1650052,5,Arcade Game Power Up 1,5.Sound/Character
+1650053,5,Game Booster 4,5.Sound/Character
+1650054,5,Retro Jump 03,5.Sound/Character
+1650055,5,Chest_Close,5.Sound/Object
+1650056,5,DOOR_Metal_Open_Creak_stereo,5.Sound/Object
+1650057,5,Jump 4x3,5.Sound/Item
+1650058,5,Sound_Character_Excalibur_Attack,5.Sound/Character
+1650059,5,Sound_Character_Excalibur_Skill1,5.Sound/Character
+1650060,5,Sound_Character_Excalibur_Skill2_Charge,5.Sound/Character
+1650061,5,Sound_Character_Excalibur_Skill2_Beam,5.Sound/Character
+1650062,5,Retro Vehicle SciFi 01,5.Sound/Object
+1650063,5,Retro Jump Classic 07,5.Sound/Character
+1650064,5,Mimic_Dying,5.Sound/Monster
+1650065,5,Mimic_Hit,5.Sound/Monster
+1650066,5,Mimic_Attack,5.Sound/Monster
+1650067,5,Retro Descending Short 04,5.Sound/Object
+1650068,5,Retro Negative Short 01,5.Sound/Character
+1650069,5,SFX_UI_Button_Click_Generic_3,5.Sound/UI
+1650070,5,SFX_Cash_Register_Buy_Click_1,5.Sound/UI
+1650071,5,SFX_UI_Button_Click_Open_2,5.Sound/UI
+1650072,5,SFX_UI_Notification_Popup_1,5.Sound/UI
+1650073,5,Casino Bling,5.Sound/UI
+1650074,5,Retro Impact Punch 17,5.Sound/Character
+1650075,5,fnt_ui_use_wood_01,5.Sound/UI
+1650076,5,Confirm 1,5.Sound/UI
+1650077,5,Game Collect Item Retro 1,5.Sound/Character
+1650078,5,Retro Ascending Short 04,5.Sound/Item
+1650079,5,SFX_UI_Button_Click_Settings_2,5.Sound/UI
+1650080,5,Retro Alarm 02,5.Sound/UI
+1650081,5,Retro Music - ABMU - ChipWave 03,5.Sound/BGM
+1650082,5,General Button 4,5.Sound/Puzzle
+1650083,5,Mech Game Item hit 3,5.Sound/Puzzle
+1650084,5,Coin Total Win,5.Sound/Puzzle
+1650085,5,Coin 3,5.Sound/Puzzle
+1650086,5,Retro Event Wrong Simple 02,5.Sound/Puzzle
+1660000,6,Puzzle_1_1,6.Prefab/Puzzle
+1660001,6,Puzzle_1_2,6.Prefab/Puzzle
+1660002,6,Puzzle_1_3,6.Prefab/Puzzle
+1660003,6,Puzzle_1_4,6.Prefab/Puzzle
+1660004,6,Puzzle_1_5,6.Prefab/Puzzle
+1660005,6,Puzzle_2,6.Prefab/Puzzle
+1660006,6,Puzzle_3,6.Prefab/Puzzle
+1660007,6,Puzzle_4,6.Prefab/Puzzle
+1660008,6,Puzzle_5,6.Prefab/Puzzle
+1670000,7,DNFBitBitv2,7.Font
+1670001,7,DungGeunMo,7.Font
+1680000,8,UI_YellowBar,8.UI
+1680001,8,UI_RedBar,8.UI
+1680002,8,UI_GreenBar,8.UI
+1680003,8,UI_EmptyBar,8.UI
+1680004,8,UI_PositiveButton_Normal,8.UI
+1680005,8,UI_PositiveButton_Clicked,8.UI
+1680006,8,UI_PositiveButton_CursorOn,8.UI
+1680007,8,UI_NegativeButton_Normal,8.UI
+1680008,8,UI_NegativeButton_Clicked,8.UI
+1680009,8,UI_NegativeButton_CursorOn,8.UI
+1680010,8,UI_Cursor_Normal,8.UI
+1680011,8,UI_Cursor_Item,8.UI
+1680012,8,UI_Cursor_ItemGrab,8.UI
+1680013,8,UI_CoinCursor_Wizard,8.UI
+1680014,8,UI_CoinCursor_100,8.UI
+1680015,8,UI_RightButton_Normal_1,8.UI
+1680016,8,UI_RightButton_Clicked_1,8.UI
+1680017,8,UI_LeftButton_Normal_1,8.UI
+1680018,8,UI_LeftButton_Clicked_1,8.UI
+1680019,8,UI_KeyboardButton_Short_Pressed,8.UI
+1680020,8,UI_KeyboardButton_Short_Normal,8.UI
+1680021,8,UI_KeyboardButton_Long_Pressed,8.UI
+1680022,8,UI_KeyboardButton_Long_Normal,8.UI
+1680023,8,UI_Close_Clicked,8.UI
+1680024,8,UI_Close_CursorOn,8.UI
+1680025,8,UI_Close_Normal,8.UI
+1680026,8,UI_OnOffButton_Off_1,8.UI
+1680027,8,UI_OnOffButton_On_1,8.UI
+1680028,8,UI_Open_Clicked,8.UI
+1680029,8,UI_Open_CursorOn,8.UI
+1680030,8,UI_Open_Normal,8.UI
+1680031,8,UI_SlideBar_1,8.UI
+1680032,8,UI_SlideBar_2,8.UI
+1680033,8,UI_SlideButton_1,8.UI
+1680034,8,UI_SlideButton_2,8.UI
+1680035,8,UI_SoundChat_Off,8.UI
+1680036,8,UI_SoundChat_On,8.UI
+1680037,8,UI_SoundOption_Off,8.UI
+1680038,8,UI_SoundOption_On,8.UI
+1680039,8,UI_Defeat_Flag_1,8.UI
+1680040,8,UI_Defeat_Flag_2,8.UI
+1680041,8,UI_Interact_Normal,8.UI
+1680042,8,UI_Interact_Pressed,8.UI
+1680043,8,UI_Inventory_Clicked,8.UI
+1680044,8,UI_Inventory_CursorOn,8.UI
+1680045,8,UI_Inventory_Normal..,8.UI
+1680046,8,UI_Lock,8.UI
+1680047,8,UI_MiniMap_Sword,8.UI
+1680048,8,UI_Setting_Clicked,8.UI
+1680049,8,UI_Setting_Normal,8.UI
+1680050,8,UI_Wizard,8.UI
+1680051,8,UI_XButton_Clicked,8.UI
+1680052,8,UI_XButton_CursorOn,8.UI
+1680053,8,UI_XButton_Normal,8.UI
+1680054,8,UI_Window_LevelUp_861x484,8.UI
+1680055,8,Bag_UI,8.UI
+1680056,8,Button_120x48_Clicked,8.UI
+1680057,8,Button_120x48_Normal,8.UI
+1680058,8,Button_UI_48x16_Clicked_1,8.UI
+1680059,8,Button_UI_48x16_Normal_1,8.UI
+1680060,8,Button_UI_48x48_Clicked,8.UI
+1680061,8,Button_UI_48x48_Normal,8.UI
+1680062,8,Button_UI_96x48_Clicked,8.UI
+1680063,8,Button_UI_96x48_Normal,8.UI
+1680064,8,Button_UI_624x96_Clicked,8.UI
+1680065,8,Button_UI_624x96_Normal,8.UI
+1680066,8,Button_UI_Check_Clicked,8.UI
+1680067,8,Button_UI_Check_Normal,8.UI
+1680068,8,Button_UI_CheckboxBlank_Clicked,8.UI
+1680069,8,Button_UI_CheckboxBlank_Normal,8.UI
+1680070,8,Button_UI_OrangeButton_48x16_Clicked,8.UI
+1680071,8,Button_UI_OrangeButton_48x16_Normal,8.UI
+1680072,8,Button_UI_Refresh_Clicked,8.UI
+1680073,8,Button_UI_Refresh_Normal,8.UI
+1680074,8,Button_UI_Serch_Clicked,8.UI
+1680075,8,Button_UI_Serch_Normal,8.UI
+1680076,8,Button_UI_White_48x16_Clicked,8.UI
+1680077,8,Button_UI_White_48x16_Normal,8.UI
+1680078,8,Button_UI_White_48x24_Clicked,8.UI
+1680079,8,Button_UI_White_48x24_Normal,8.UI
+1680080,8,Checkbox_Checked_Clicked,8.UI
+1680081,8,Checkbox_Checked_Normal,8.UI
+1680082,8,Consumable_Slot_UI,8.UI
+1680083,8,Equip_Slot_UI,8.UI
+1680084,8,Icon_UI_Check,8.UI
+1680085,8,Icon_UI_Vote_Green,8.UI
+1680086,8,Icon_UI_Vote_Red,8.UI
+1680087,8,Icon_UI_X,8.UI
+1680088,8,Window_UI_48x48,8.UI
+1680089,8,Window_UI_48x96,8.UI
+1680090,8,WIndow_UI_480x640,8.UI
+1680091,8,WIndow_UI_720x720,8.UI
+1680092,8,X_Button_Click_UI,8.UI
+1680093,8,X_Button_Normal_UI,8.UI
+1680094,8,X_Button_Oncursor_UI,8.UI
+1680095,8,AttackSpeedGold,8.UI/StatusInfoUI
+1680096,8,CoinGold,8.UI/StatusInfoUI
+1680097,8,HeartGold,8.UI/StatusInfoUI
+1680098,8,ShieldGold,8.UI/StatusInfoUI
+1680099,8,ShoeGold,8.UI/StatusInfoUI
+1680100,8,StatMinus,8.UI/StatusInfoUI
+1680101,8,StatNumber,8.UI/StatusInfoUI
+1680102,8,StatPlus,8.UI/StatusInfoUI
+1680103,8,StatWindowGold,8.UI/StatusInfoUI
+1680104,8,SwordsGold,8.UI/StatusInfoUI
+1680105,8,UI_Direction_Left_Clicked,8.UI
+1680106,8,UI_Direction_Left_CursorOn,8.UI
+1680107,8,UI_Direction_Left_Normal,8.UI
+1680108,8,UI_Direction_Right_Clicked,8.UI
+1680109,8,UI_Direction_Right_CursorOn,8.UI
+1680110,8,UI_Direction_Right_Normal,8.UI
+1680111,8,SoloIcon_UI,8.UI
+1680112,8,TeamIcon_UI,8.UI
+1680113,8,market_Character_UI,8.UI
+1680114,8,Searching_UI,8.UI
+1680115,8,Tent_UI_1,8.UI
+1680116,8,WaitingRoomList_UI,8.UI
+1680117,8,UI_SkillButton,8.UI
+1680118,8,UI_SkillButton2,8.UI
+1680119,8,tutorialImageFrame_1,8.UI
+1680120,8,tutorialTextbox_1,8.UI
+1680121,8,StatUp_Pressed,8.UI
+1680122,8,StatUP,8.UI
+1680123,8,StatDown,8.UI
+1680124,8,StatDown_Pressed,8.UI
+1680125,8,Ingame_skillIcon,8.UI
+1680126,8,Ingame_skillIcon_Pressed,8.UI
+1680127,8,Edit_UI,8.UI
+1680128,8,Edit_UI_CursorOn,8.UI
+1680129,8,Edit_UI_Clicked,8.UI
+1680130,8,UI_Whitebar,8.UI
+1680131,8,Equip_Slot_Weapon_UI,8.UI
+1680132,8,Equip_Slot_Armor_UI,8.UI
+1680133,8,Equip_Slot_Head_UI,8.UI
+1680134,8,Equip_Slot_Hand_UI,8.UI
+1680135,8,Equip_Slot_Leg_UI,8.UI
+1680136,8,Icon_Torch,8.UI

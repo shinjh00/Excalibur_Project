@@ -1,0 +1,3 @@
+ID,설명,상자 번들 종류,상자 스폰 번들1,상자 스폰 번들2,상자 스폰 번들3,상자 스폰 번들4,상자 스폰 번들5,상자 스폰 번들6,상자 스폰 번들7,상자 스폰 번들8,상자 스폰 번들9,상자 스폰 번들10
+ID,Explanation,ChestSpawnerCount,ChestSpawnID1,ChestSpawnID2,ChestSpawnID3,ChestSpawnID4,ChestSpawnID5,ChestSpawnID6,ChestSpawnID7,ChestSpawnID8,ChestSpawnID9,ChestSpawnID10
+1306000,임시상자스폰,3,1301000,1301001,1301002,-9999,-9999,-9999,-9999,-9999,-9999,-9999
